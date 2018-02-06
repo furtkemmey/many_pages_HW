@@ -1,0 +1,57 @@
+{
+    "fileName": "songsList",
+    "number": 1,
+    "areas": [
+             {
+             "area": "American",
+             "singer": [
+                        "John legend",
+                        "Eagles"
+                        ]
+             },
+             {
+             "area": "Japane",
+             "singer": [
+                        "雅美",
+                        "蓮實"
+                        ]
+             },
+             {
+             "area": "Taiwan",
+             "singer": [
+                        "五百",
+                        "MC"
+                        ]
+             }
+             ],
+    "John legend": {
+        "1": "Johnsong1",
+        "2": "Johnsong2",
+        "3": "Johnsong3"
+    },
+    "Eagles": {
+        "1": "Eagles1",
+        "2": "Eagles2",
+        "3": "Eagles3"
+    },
+    "雅美": {
+        "1": "雅美song1",
+        "2": "雅美song2",
+        "3": "雅美song3"
+    },
+    "蓮實": {
+        "1": "蓮實song1",
+        "2": "蓮實song2",
+        "3": "蓮實song3"
+    },
+    "五百": {
+        "1": "五百song1",
+        "2": "五百song2",
+        "3": "五百song3"
+    },
+    "MC": {
+        "1": "MCsong1",
+        "2": "MCsong2",
+        "3": "MCsong3"
+    }
+}
